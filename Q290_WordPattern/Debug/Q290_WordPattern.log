@@ -1,0 +1,3 @@
+﻿  Q290_WordPattern.cpp
+G:\Leetcode\Easy\Q290_WordPattern\Q290_WordPattern\Q290_WordPattern.cpp(15,26): warning C4018: '<': signed/unsigned mismatch
+  Q290_WordPattern.vcxproj -> G:\Leetcode\Easy\Q290_WordPattern\Debug\Q290_WordPattern.exe
